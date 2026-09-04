@@ -7,7 +7,7 @@ about:
   head: 96af0da
   archived: false
   latestVersion: v0.5.7
-  collectedAt: 2026-09-04T19:55:36Z
+  collectedAt: 2026-09-04T20:49:03Z
 timeline:
   created: 2024-12-30
   lastCommit: 2026-08-27
@@ -81,5 +81,38 @@ total:
   openIssue: 0
   commit: 1187
 ---
+path: /home/runner/.x-repo/github.com/fioletoven/b4n
+collectedAt: 2026-09-04T20:49:04Z
+loc:
+  Rust:
+    code: 35276
+    comments: 103
+    blanks: 5974
+    files: 267
+  Yaml:
+    code: 837
+    comments: 17
+    blanks: 27
+    files: 7
+  Toml:
+    code: 233
+    comments: 0
+    blanks: 20
+    files: 8
+  Dockerfile:
+    code: 15
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 563
+    blanks: 312
+    files: 2
+total:
+  code: 36414
+  comments: 2936
+  blanks: 6344
+  files: 285
 ---
 
