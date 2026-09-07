@@ -5,7 +5,7 @@ about:
   head: 96af0da
   archived: false
   latestVersion: "v0.5.7"
-  collectedAt: 2026-09-07T05:33:16Z
+  collectedAt: 2026-09-07T18:58:01Z
 timeline:
   created: 2024-12-30
   lastCommit: 2026-08-27
@@ -80,7 +80,7 @@ total:
   commit: 1187
 ---
 path: /home/runner/.x-repo/github.com/fioletoven/b4n
-collectedAt: 2026-09-07T05:33:17Z
+collectedAt: 2026-09-07T18:58:02Z
 loc:
   Rust:
     code: 35276
@@ -116,7 +116,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:33:18+00:00
+  collectedAt: 2026-09-07T18:58:03+00:00
   platform:
     darwin/arm64:
       name:  b4n-0.5.7-aarch64-macos.tar.gz
