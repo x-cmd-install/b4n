@@ -1,0 +1,124 @@
+about:
+  description: "Terminal user interface (TUI) for Kubernetes API written in Rust"
+  license: MIT
+  homepage: 
+  head: 96af0da
+  archived: false
+  latestVersion: "v0.5.7"
+  collectedAt: 2026-09-08T02:48:18Z
+timeline:
+  created: 2024-12-30
+  lastCommit: 2026-08-27
+  lastRelease: 2026-08-27
+popularity:
+  star: 104
+  watcher: 2
+  fork: 3
+  release: 48
+  contributor: 2
+  pullRequest: 201
+  issue: 1
+language:
+  Rust: 1493293
+  Dockerfile: 618
+totalBytes: 1493911
+recent:
+  last30d:
+    since: 2026-08-09
+    release: 2
+    mergedPR: 10
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 27
+  last60d:
+    since: 2026-07-10
+    release: 5
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 83
+  last90d:
+    since: 2026-06-10
+    release: 8
+    mergedPR: 40
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 158
+  last180d:
+    since: 2026-03-12
+    release: 14
+    mergedPR: 77
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 320
+  last360d:
+    since: 2025-09-13
+    release: 37
+    mergedPR: 160
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 732
+  last720d:
+    since: 2024-09-18
+    release: 48
+    mergedPR: 201
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 1187
+total:
+  release: 48
+  mergedPR: 201
+  openPR: 0
+  closedIssue: 1
+  openIssue: 0
+  commit: 1187
+---
+path: /home/runner/.x-repo/github.com/fioletoven/b4n
+collectedAt: 2026-09-08T02:48:25Z
+loc:
+  Rust:
+    code: 35276
+    comments: 103
+    blanks: 5974
+    files: 267
+  Yaml:
+    code: 837
+    comments: 17
+    blanks: 27
+    files: 7
+  Toml:
+    code: 233
+    comments: 0
+    blanks: 20
+    files: 8
+  Dockerfile:
+    code: 15
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 563
+    blanks: 312
+    files: 2
+total:
+  code: 36414
+  comments: 2936
+  blanks: 6344
+  files: 285
+---
+
+---
+platform	name	url	size	score
+darwin/arm64	b4n-0.5.7-aarch64-macos.tar.gz	https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-aarch64-macos.tar.gz	3461475	45
+darwin/amd64	b4n-0.5.7-x86_64-macos.tar.gz	https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-macos.tar.gz	3680304	45
+linux/arm64			
+linux/amd64	b4n-0.5.7-x86_64-linux.tar.gz	https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-linux.tar.gz	4091076	45
+win/arm64			
+win/amd64	b4n-0.5.7-x86_64-windows.zip	https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-windows.zip	3479886	45
