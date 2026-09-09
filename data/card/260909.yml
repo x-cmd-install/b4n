@@ -2,15 +2,15 @@ about:
   description: "Terminal user interface (TUI) for Kubernetes API written in Rust"
   license: MIT
   homepage: 
-  head: b27c80c
+  head: e5171e8
   archived: false
   latestVersion: "v0.5.7"
   latestRelease: "v0.5.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:50:45Z
+  collectedAt: 2026-09-09T19:52:50Z
 timeline:
   created: 2024-12-30
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-27
   lastRelease: 2026-08-27
   lastPrerelease: 
@@ -20,76 +20,76 @@ popularity:
   fork: 3
   release: 48
   contributor: 2
-  pullRequest: 202
+  pullRequest: 203
   issue: 1
 language:
-  Rust: 1500519
+  Rust: 1504140
   Dockerfile: 618
-totalBytes: 1501137
+totalBytes: 1504758
 recent:
   last30d:
     since: 2026-08-10
     release: 2
-    mergedPR: 10
+    mergedPR: 11
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 33
+    commit: 34
   last60d:
     since: 2026-07-11
     release: 5
-    mergedPR: 26
+    mergedPR: 27
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 89
+    commit: 90
   last90d:
     since: 2026-06-11
     release: 8
-    mergedPR: 40
+    mergedPR: 41
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 164
+    commit: 165
   last180d:
     since: 2026-03-13
     release: 14
-    mergedPR: 78
+    mergedPR: 79
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 326
+    commit: 327
   last360d:
     since: 2025-09-14
     release: 37
-    mergedPR: 161
+    mergedPR: 162
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 738
+    commit: 739
   last720d:
     since: 2024-09-19
     release: 48
-    mergedPR: 202
+    mergedPR: 203
     openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 1194
+    commit: 1196
 total:
   release: 48
-  mergedPR: 202
+  mergedPR: 203
   openPR: 0
   closedIssue: 1
   openIssue: 0
-  commit: 1194
+  commit: 1196
 ---
 path: /home/runner/.x-repo/github.com/fioletoven/b4n
-collectedAt: 2026-09-09T05:50:47Z
+collectedAt: 2026-09-09T19:52:53Z
 loc:
   Rust:
-    code: 35422
+    code: 35510
     comments: 104
-    blanks: 5992
+    blanks: 6011
     files: 267
   Yaml:
     code: 837
@@ -108,13 +108,13 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 569
+    comments: 570
     blanks: 317
     files: 2
 total:
-  code: 36560
-  comments: 2947
-  blanks: 6367
+  code: 36648
+  comments: 2953
+  blanks: 6386
   files: 285
 ---
 
