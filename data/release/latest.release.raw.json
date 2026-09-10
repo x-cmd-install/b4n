@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3461475,
       "digest": "sha256:21db9cd4a6c267e48a30c659419e1df4f96cb8486d7bc99323d785de217407f7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-27T16:33:30Z",
       "updated_at": "2026-08-27T16:33:30Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-aarch64-macos.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4091076,
       "digest": "sha256:2c36e747702341e941e0c1bccf3a67814256df9ef6b733f18b882c74415df02b",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-08-27T16:30:50Z",
       "updated_at": "2026-08-27T16:30:51Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-linux.tar.gz"

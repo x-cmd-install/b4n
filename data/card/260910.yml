@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.5.7"
   latestRelease: "v0.5.7"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:51:11Z
+  collectedAt: 2026-09-10T20:29:05Z
 timeline:
   created: 2024-12-30
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 104
+  star: 105
   watcher: 2
   fork: 3
   release: 48
@@ -84,7 +84,7 @@ total:
   commit: 1196
 ---
 path: /home/runner/.x-repo/github.com/fioletoven/b4n
-collectedAt: 2026-09-10T05:51:14Z
+collectedAt: 2026-09-10T20:29:07Z
 loc:
   Rust:
     code: 35510
