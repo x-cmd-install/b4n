@@ -22,7 +22,7 @@ x install b4n
 | Yaml | 837 | 17 | 27 | 7 |
 | Toml | 233 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 571 | 317 | 2 |
+| Markdown | 0 | 573 | 318 | 2 |
 
 ## 源代码
 
@@ -31,9 +31,9 @@ x install b4n
 
 ## 发布
 
-- **最新版本**: `v0.5.7` (2026-08-27)
-- **最近提交**: 2026-09-11
-- **Release 含资产**: 4 个
+- **最新版本**: `v1.0.0` (2026-09-12)
+- **最近提交**: 2026-09-12
+- **Release 含资产**: 6 个
 
 ## 流行度
 
@@ -41,36 +41,38 @@ x install b4n
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 204 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 1202
+- **发布数**: 49 · **已合并 PR**: 205 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 1206
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 11 | 0 | 0 | 0 | 39 |
-| last60d | 2026-07-14 | 5 | 26 | 0 | 1 | 0 | 95 |
-| 90d | 2026-06-14 | 8 | 42 | 0 | 1 | 0 | 170 |
-| last180d | 2026-03-16 | 13 | 78 | 0 | 1 | 0 | 332 |
-| 360d | 2025-09-17 | 37 | 163 | 0 | 1 | 0 | 744 |
-| last720d | 2024-09-22 | 48 | 204 | 0 | 1 | 0 | 1202 |
+| 30d | 2026-08-14 | 3 | 12 | 0 | 0 | 0 | 32 |
+| last60d | 2026-07-15 | 5 | 27 | 0 | 1 | 0 | 90 |
+| 90d | 2026-06-15 | 9 | 43 | 0 | 1 | 0 | 164 |
+| last180d | 2026-03-17 | 14 | 78 | 0 | 1 | 0 | 323 |
+| 360d | 2025-09-18 | 38 | 164 | 0 | 1 | 0 | 729 |
+| last720d | 2024-09-23 | 49 | 205 | 0 | 1 | 0 | 1206 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [b4n-0.5.7-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [b4n-0.5.7-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
-| [b4n-0.5.7-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [b4n-0.5.7-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v0.5.7/b4n-0.5.7-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
+| [b4n-1.0.0-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-linux.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [b4n-1.0.0-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [b4n-1.0.0-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
+| [b4n-1.0.0-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
+| [b4n-1.0.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [b4n-1.0.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/b4n) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/b4n) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.5.7` | ✅ latest |
-| openSUSE Tumbleweed | `0.5.7` | ✅ latest |
+| Homebrew | `1.0.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.5.7` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +83,4 @@ b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T05:30:41Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:54:36Z._
