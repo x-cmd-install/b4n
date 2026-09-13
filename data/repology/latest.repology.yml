@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: b4n
   visiblename: b4n
-  version: 0.5.7
+  version: 1.0.0
   origversion: null
   status: newest
   summary: Terminal user interface (TUI) for Kubernetes API written in Rust
@@ -22,7 +22,7 @@
   visiblename: b4n
   version: 0.5.7
   origversion: 0.5.7-1.1
-  status: newest
+  status: outdated
   summary: Terminal user interface (TUI) for Kubernetes API written in Rust
   licenses:
     - MIT
