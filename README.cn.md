@@ -37,7 +37,7 @@ x install b4n
 
 ## 流行度
 
-- **Star**: 105 · **Fork**: 3 · **开放 issue**: 1 · **贡献者**: 2
+- **Star**: 106 · **Fork**: 3 · **开放 issue**: 1 · **贡献者**: 2
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install b4n
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 12 | 0 | 0 | 0 | 32 |
-| last60d | 2026-07-15 | 5 | 27 | 0 | 1 | 0 | 90 |
-| 90d | 2026-06-15 | 9 | 43 | 0 | 1 | 0 | 164 |
-| last180d | 2026-03-17 | 14 | 78 | 0 | 1 | 0 | 323 |
-| 360d | 2025-09-18 | 38 | 164 | 0 | 1 | 0 | 729 |
-| last720d | 2024-09-23 | 49 | 205 | 0 | 1 | 0 | 1206 |
+| 30d | 2026-08-15 | 3 | 11 | 0 | 0 | 0 | 32 |
+| last60d | 2026-07-16 | 5 | 27 | 0 | 1 | 0 | 90 |
+| 90d | 2026-06-16 | 9 | 43 | 0 | 1 | 0 | 164 |
+| last180d | 2026-03-18 | 14 | 77 | 0 | 1 | 0 | 323 |
+| 360d | 2025-09-19 | 38 | 163 | 0 | 1 | 0 | 729 |
+| last720d | 2024-09-24 | 49 | 205 | 0 | 1 | 0 | 1206 |
 
 ## Release 资产
 
@@ -65,15 +65,6 @@ x install b4n
 | [b4n-1.0.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
 | [b4n-1.0.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/b4n) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.0.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.5.7` | ⚠️ outdated |
-
 ## 改进这些数据
 
 b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `b4n` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -83,4 +74,4 @@ b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:54:36Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:04:23Z._
