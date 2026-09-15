@@ -14,15 +14,15 @@ x install b4n
 
 ## Code insight
 
-Total: **36,772** lines of code across **286** files in the top 5 languages.
+Total: **36,785** lines of code across **286** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,687 | 104 | 6,046 | 268 |
+| Rust | 35,700 | 104 | 6,047 | 268 |
 | Yaml | 837 | 17 | 27 | 7 |
 | Toml | 233 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 573 | 318 | 2 |
+| Markdown | 0 | 577 | 321 | 2 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **36,772** lines of code across **286** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.0` (2026-09-12)
-- **Last commit**: 2026-09-12
+- **Latest**: `v1.0.1` (2026-09-14)
+- **Last commit**: 2026-09-14
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,29 +41,29 @@ Total: **36,772** lines of code across **286** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 205 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1206
+- **Releases**: 50 · **Merged PRs**: 206 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 3 | 11 | 0 | 0 | 0 | 32 |
-| last60d | 2026-07-16 | 5 | 27 | 0 | 1 | 0 | 90 |
-| 90d | 2026-06-16 | 9 | 43 | 0 | 1 | 0 | 164 |
-| last180d | 2026-03-18 | 14 | 77 | 0 | 1 | 0 | 323 |
-| 360d | 2025-09-19 | 38 | 163 | 0 | 1 | 0 | 729 |
-| last720d | 2024-09-24 | 49 | 205 | 0 | 1 | 0 | 1206 |
+| 30d | 2026-08-16 | 4 | 12 | 0 | 0 | 0 | 37 |
+| last60d | 2026-07-17 | 6 | 28 | 0 | 1 | 0 | 95 |
+| 90d | 2026-06-17 | 10 | 44 | 0 | 1 | 0 | 169 |
+| last180d | 2026-03-19 | 15 | 78 | 0 | 1 | 0 | 328 |
+| 360d | 2025-09-20 | 39 | 162 | 0 | 1 | 0 | 734 |
+| last720d | 2024-09-25 | 50 | 206 | 0 | 1 | 0 | 1212 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [b4n-1.0.0-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-linux.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [b4n-1.0.0-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [b4n-1.0.0-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
-| [b4n-1.0.0-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
-| [b4n-1.0.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [b4n-1.0.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.0/b4n-1.0.0-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
+| [b4n-1.0.1-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-linux.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [b4n-1.0.1-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [b4n-1.0.1-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
+| [b4n-1.0.1-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
+| [b4n-1.0.1-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [b4n-1.0.1-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:04:22Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:15:09Z._
