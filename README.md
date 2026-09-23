@@ -4,7 +4,7 @@
 
 Terminal user interface (TUI) for Kubernetes API written in Rust
 
-[![x-cmd/install — b4n Code Quality Monitoring Repo Card](https://repo.x-cmd.io/b4n.svg)](https://x-cmd.com/install/b4n)
+[![x-cmd/install — b4n Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/b4n.svg)](https://x-cmd.com/install/b4n)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **36,785** lines of code across **286** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 8 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 6 | 26 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 9 | 42 | 0 | 1 | 0 | 0 |
-| last180d | 2026-03-26 | 14 | 76 | 0 | 1 | 0 | 0 |
-| 360d | 2025-09-27 | 37 | 159 | 0 | 1 | 0 | 0 |
-| last720d | 2024-10-02 | 50 | 206 | 0 | 1 | 0 | 1212 |
+| 30d | 2026-08-24 | 3 | 7 | 0 | 0 | 0 | 20 |
+| last60d | 2026-07-25 | 6 | 26 | 0 | 0 | 0 | 80 |
+| 90d | 2026-06-25 | 9 | 42 | 0 | 1 | 0 | 152 |
+| last180d | 2026-03-27 | 14 | 76 | 0 | 1 | 0 | 316 |
+| 360d | 2025-09-28 | 36 | 158 | 0 | 1 | 0 | 714 |
+| last720d | 2024-10-03 | 50 | 206 | 0 | 1 | 0 | 1212 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:57:07Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:16:06Z._
