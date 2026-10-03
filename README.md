@@ -14,15 +14,15 @@ x install b4n
 
 ## Code insight
 
-Total: **36,827** lines of code across **286** files in the top 5 languages.
+Total: **38,132** lines of code across **299** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 35,742 | 104 | 6,058 | 268 |
+| Rust | 37,045 | 104 | 6,222 | 281 |
 | Yaml | 837 | 17 | 27 | 7 |
-| Toml | 233 | 0 | 20 | 8 |
+| Toml | 235 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 580 | 324 | 2 |
+| Markdown | 0 | 581 | 324 | 2 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **36,827** lines of code across **286** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.1` (2026-09-14)
-- **Last commit**: 2026-09-26
+- **Last commit**: 2026-10-01
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 106 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 2
+- **Stars**: 107 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 50 · **Merged PRs**: 207 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1214
+- **Releases**: 50 · **Merged PRs**: 208 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 6 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-02 | 5 | 21 | 0 | 0 | 0 | 66 |
-| 90d | 2026-07-03 | 8 | 38 | 0 | 1 | 0 | 131 |
-| last180d | 2026-04-04 | 14 | 72 | 0 | 1 | 0 | 300 |
-| 360d | 2025-10-06 | 35 | 158 | 0 | 1 | 0 | 699 |
-| last720d | 2024-10-11 | 50 | 207 | 0 | 1 | 0 | 1214 |
+| 30d | 2026-09-03 | 2 | 7 | 0 | 0 | 0 | 26 |
+| last60d | 2026-08-04 | 5 | 22 | 0 | 0 | 0 | 74 |
+| 90d | 2026-07-05 | 8 | 37 | 0 | 1 | 0 | 139 |
+| last180d | 2026-04-06 | 14 | 72 | 0 | 1 | 0 | 308 |
+| 360d | 2025-10-08 | 35 | 158 | 0 | 1 | 0 | 707 |
+| last720d | 2024-10-13 | 50 | 208 | 0 | 1 | 0 | 1223 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:40:10Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T06:05:08Z._
