@@ -14,15 +14,15 @@ x install b4n
 
 ## 代码洞察
 
-合计: **38,690** 行代码（覆盖前 5 种语言、共 **303** 个文件）。
+合计: **38,753** 行代码（覆盖前 5 种语言、共 **303** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 37,601 | 104 | 6,310 | 285 |
-| Yaml | 837 | 17 | 27 | 7 |
+| Rust | 37,636 | 104 | 6,312 | 285 |
+| Yaml | 865 | 17 | 27 | 7 |
 | Toml | 237 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 581 | 324 | 2 |
+| Markdown | 0 | 583 | 324 | 2 |
 
 ## 源代码
 
@@ -31,8 +31,8 @@ x install b4n
 
 ## 发布
 
-- **最新版本**: `v1.0.1` (2026-09-14)
-- **最近提交**: 2026-10-05
+- **最新版本**: `v1.1.0` (2026-10-06)
+- **最近提交**: 2026-10-06
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -41,29 +41,29 @@ x install b4n
 
 ## 累计统计
 
-- **发布数**: 50 · **已合并 PR**: 209 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 1229
+- **发布数**: 51 · **已合并 PR**: 210 · **开放 PR**: 0 · **已关闭 issue**: 1 · **开放 issue**: 0 · **提交数**: 1234
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 2 | 8 | 0 | 0 | 0 | 25 |
-| last60d | 2026-08-07 | 5 | 21 | 0 | 0 | 0 | 62 |
-| 90d | 2026-07-08 | 7 | 35 | 0 | 1 | 0 | 125 |
-| last180d | 2026-04-09 | 13 | 71 | 0 | 1 | 0 | 300 |
-| 360d | 2025-10-11 | 35 | 158 | 0 | 1 | 0 | 694 |
-| last720d | 2024-10-16 | 50 | 209 | 0 | 1 | 0 | 1229 |
+| 30d | 2026-09-07 | 3 | 9 | 0 | 0 | 0 | 29 |
+| last60d | 2026-08-08 | 5 | 20 | 0 | 0 | 0 | 66 |
+| 90d | 2026-07-09 | 8 | 35 | 0 | 1 | 0 | 129 |
+| last180d | 2026-04-10 | 14 | 72 | 0 | 1 | 0 | 304 |
+| 360d | 2025-10-12 | 36 | 158 | 0 | 1 | 0 | 698 |
+| last720d | 2024-10-17 | 51 | 210 | 0 | 1 | 0 | 1234 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [b4n-1.0.1-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-linux.tar.gz) | 3.8 MiB | `native/linux/arm64` |
-| [b4n-1.0.1-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-| [b4n-1.0.1-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
-| [b4n-1.0.1-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
-| [b4n-1.0.1-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-macos.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [b4n-1.0.1-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.0.1/b4n-1.0.1-x86_64-windows.zip) | 3.3 MiB | `native/win/x64` |
+| [b4n-1.1.0-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-aarch64-linux.tar.gz) | 3.8 MiB | `native/linux/arm64` |
+| [b4n-1.1.0-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-aarch64-macos.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [b4n-1.1.0-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
+| [b4n-1.1.0-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-x86_64-linux.tar.gz) | 3.9 MiB | `native/linux/x64` |
+| [b4n-1.1.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-x86_64-macos.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [b4n-1.1.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-x86_64-windows.zip) | 3.4 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:26:12Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:47:31Z._
