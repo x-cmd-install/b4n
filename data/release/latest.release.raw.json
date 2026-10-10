@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4135367,
       "digest": "sha256:c5a5438c9d316358899c9e9a231c38a1a010b48bfc30eb2bf910c5a567ef6ec1",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-06T18:17:05Z",
       "updated_at": "2026-10-06T18:17:05Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.1.0/b4n-1.1.0-x86_64-linux.tar.gz"
