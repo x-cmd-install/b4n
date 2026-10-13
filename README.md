@@ -47,12 +47,12 @@ Total: **38,753** lines of code across **303** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 5 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-13 | 5 | 17 | 0 | 0 | 0 | 58 |
-| 90d | 2026-07-14 | 8 | 32 | 0 | 1 | 0 | 118 |
-| last180d | 2026-04-15 | 13 | 68 | 0 | 1 | 0 | 297 |
-| 360d | 2025-10-17 | 34 | 155 | 0 | 1 | 0 | 673 |
-| last720d | 2024-10-22 | 51 | 210 | 0 | 1 | 0 | 1234 |
+| 30d | 2026-09-13 | 2 | 5 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-14 | 5 | 17 | 0 | 0 | 0 | 58 |
+| 90d | 2026-07-15 | 7 | 32 | 0 | 1 | 0 | 118 |
+| last180d | 2026-04-16 | 13 | 67 | 0 | 1 | 0 | 297 |
+| 360d | 2025-10-18 | 34 | 154 | 0 | 1 | 0 | 673 |
+| last720d | 2024-10-23 | 51 | 210 | 0 | 1 | 0 | 1234 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T07:01:44Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:51:05Z._
