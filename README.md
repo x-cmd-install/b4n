@@ -37,7 +37,7 @@ Total: **38,753** lines of code across **303** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 107 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 2
+- **Stars**: 108 · **Forks**: 3 · **Open issues**: 1 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **38,753** lines of code across **303** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 4 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-15 | 5 | 16 | 0 | 0 | 0 | 58 |
-| 90d | 2026-07-16 | 7 | 32 | 0 | 1 | 0 | 118 |
-| last180d | 2026-04-17 | 13 | 67 | 0 | 1 | 0 | 297 |
-| 360d | 2025-10-19 | 34 | 153 | 0 | 1 | 0 | 673 |
-| last720d | 2024-10-24 | 51 | 210 | 0 | 1 | 0 | 1234 |
+| 30d | 2026-09-15 | 1 | 4 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-16 | 5 | 16 | 0 | 0 | 0 | 58 |
+| 90d | 2026-07-17 | 7 | 32 | 0 | 1 | 0 | 118 |
+| last180d | 2026-04-18 | 13 | 67 | 0 | 1 | 0 | 297 |
+| 360d | 2025-10-20 | 33 | 153 | 0 | 1 | 0 | 673 |
+| last720d | 2024-10-25 | 51 | 210 | 0 | 1 | 0 | 1234 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:45:43Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:26:21Z._
