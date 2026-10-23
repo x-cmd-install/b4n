@@ -47,12 +47,12 @@ x install b4n
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 9 | 0 | 0 | 0 | 50 |
-| last60d | 2026-08-23 | 5 | 17 | 0 | 0 | 0 | 74 |
-| 90d | 2026-07-24 | 8 | 35 | 0 | 0 | 0 | 136 |
-| last180d | 2026-04-25 | 14 | 71 | 0 | 1 | 0 | 317 |
-| 360d | 2025-10-27 | 33 | 156 | 0 | 1 | 0 | 681 |
-| last720d | 2024-11-01 | 52 | 215 | 0 | 1 | 0 | 1271 |
+| 30d | 2026-09-23 | 2 | 9 | 0 | 0 | 0 | 50 |
+| last60d | 2026-08-24 | 5 | 16 | 0 | 0 | 0 | 74 |
+| 90d | 2026-07-25 | 8 | 35 | 0 | 0 | 0 | 136 |
+| last180d | 2026-04-26 | 14 | 70 | 0 | 1 | 0 | 317 |
+| 360d | 2025-10-28 | 33 | 156 | 0 | 1 | 0 | 681 |
+| last720d | 2024-11-02 | 52 | 215 | 0 | 1 | 0 | 1271 |
 
 ## Release 资产
 
@@ -65,6 +65,15 @@ x install b4n
 | [b4n-1.2.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-macos.tar.gz) | 3.6 MiB | `native/darwin/x64` |
 | [b4n-1.2.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-windows.zip) | 3.4 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/b4n) 上共有 **3** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.2.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.1.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `b4n` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -74,4 +83,4 @@ b4n 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:33:35Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:37:20Z._
