@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4040335,
       "digest": "sha256:6c194c95cf123e9c66e383edd04245c42ff809c9afedbce67335086c4cb3a717",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-18T17:19:42Z",
       "updated_at": "2026-10-18T17:19:42Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-aarch64-linux.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3530605,
       "digest": "sha256:244f0a17f18c6ae34375a98391747bb8ffc004bbcc1ae45fbe6818bd889f01e6",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-10-18T17:21:16Z",
       "updated_at": "2026-10-18T17:21:16Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-aarch64-macos.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4160945,
       "digest": "sha256:795568c313f599ef06b37a8383bbb26f3bdde9b1e6d87af18b17dde9abf1c547",
-      "download_count": 27,
+      "download_count": 33,
       "created_at": "2026-10-18T17:19:18Z",
       "updated_at": "2026-10-18T17:19:18Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-linux.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3742970,
       "digest": "sha256:71fa09a5f36c9d45c8b583cf5b8692ba91a256fbe518902b1bf94e725c8a586e",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-10-18T17:21:08Z",
       "updated_at": "2026-10-18T17:21:08Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-macos.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3538742,
       "digest": "sha256:3b309f1422b6a0e6d3154083159ba95e38b81baba051d166e49f3c239133fa2f",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-10-18T17:22:44Z",
       "updated_at": "2026-10-18T17:22:44Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-windows.zip"
