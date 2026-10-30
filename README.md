@@ -14,15 +14,15 @@ x install b4n
 
 ## Code insight
 
-Total: **39,922** lines of code across **306** files in the top 5 languages.
+Total: **40,075** lines of code across **306** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 38,805 | 104 | 6,405 | 288 |
-| Yaml | 865 | 17 | 27 | 7 |
+| Rust | 38,948 | 104 | 6,495 | 288 |
+| Yaml | 875 | 17 | 27 | 7 |
 | Toml | 237 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 620 | 343 | 2 |
+| Markdown | 0 | 625 | 344 | 2 |
 
 ## Source
 
@@ -31,8 +31,8 @@ Total: **39,922** lines of code across **306** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.2.0` (2026-10-18)
-- **Last commit**: 2026-10-26
+- **Latest**: `v1.3.0` (2026-10-29)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,38 +41,38 @@ Total: **39,922** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 216 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1276
+- **Releases**: 53 · **Merged PRs**: 217 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1289
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 9 | 0 | 0 | 0 | 45 |
-| last60d | 2026-08-30 | 4 | 15 | 0 | 0 | 0 | 71 |
-| 90d | 2026-07-31 | 7 | 34 | 0 | 0 | 0 | 121 |
-| last180d | 2026-05-02 | 14 | 67 | 0 | 1 | 0 | 295 |
-| 360d | 2025-11-03 | 33 | 154 | 0 | 1 | 0 | 663 |
-| last720d | 2024-11-08 | 52 | 216 | 0 | 1 | 0 | 1276 |
+| 30d | 2026-09-30 | 3 | 10 | 0 | 0 | 0 | 57 |
+| last60d | 2026-08-31 | 5 | 16 | 0 | 0 | 0 | 83 |
+| 90d | 2026-08-01 | 8 | 32 | 0 | 0 | 0 | 133 |
+| last180d | 2026-05-03 | 15 | 68 | 0 | 1 | 0 | 307 |
+| 360d | 2025-11-04 | 34 | 154 | 0 | 1 | 0 | 675 |
+| last720d | 2024-11-09 | 53 | 217 | 0 | 1 | 0 | 1289 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [b4n-1.2.0-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-aarch64-linux.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [b4n-1.2.0-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-aarch64-macos.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
-| [b4n-1.2.0-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
-| [b4n-1.2.0-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-linux.tar.gz) | 4.0 MiB | `native/linux/x64` |
-| [b4n-1.2.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-macos.tar.gz) | 3.6 MiB | `native/darwin/x64` |
-| [b4n-1.2.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.2.0/b4n-1.2.0-x86_64-windows.zip) | 3.4 MiB | `native/win/x64` |
+| [b4n-1.3.0-aarch64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-aarch64-linux.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [b4n-1.3.0-aarch64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-aarch64-macos.tar.gz) | 3.4 MiB | `native/darwin/arm64` |
+| [b4n-1.3.0-aarch64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-aarch64-windows.zip) | 3.2 MiB | `native/win/arm64` |
+| [b4n-1.3.0-x86_64-linux.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-x86_64-linux.tar.gz) | 4.0 MiB | `native/linux/x64` |
+| [b4n-1.3.0-x86_64-macos.tar.gz](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-x86_64-macos.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [b4n-1.3.0-x86_64-windows.zip](https://github.com/fioletoven/b4n/releases/download/v1.3.0/b4n-1.3.0-x86_64-windows.zip) | 3.4 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **3** distros on [repology.org](https://repology.org/project/b4n). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **3** distros on [repology.org](https://repology.org/project/b4n). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.2.0` | ✅ latest |
-| openSUSE Tumbleweed | `1.2.0` | ✅ latest |
+| Homebrew | `1.3.0` | ✅ latest |
+| openSUSE Tumbleweed | `1.2.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -83,4 +83,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:35:54Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:39:30Z._
