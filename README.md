@@ -32,7 +32,7 @@ Total: **40,075** lines of code across **306** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-10-29)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-08
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **40,075** lines of code across **306** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 217 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1289
+- **Releases**: 53 · **Merged PRs**: 218 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 2 | 7 | 0 | 0 | 0 | 30 |
-| last60d | 2026-09-09 | 5 | 14 | 0 | 0 | 0 | 66 |
-| 90d | 2026-08-10 | 7 | 25 | 0 | 0 | 0 | 108 |
-| last180d | 2026-05-12 | 14 | 65 | 0 | 1 | 0 | 304 |
-| 360d | 2025-11-13 | 33 | 150 | 0 | 1 | 0 | 639 |
-| last720d | 2024-11-18 | 53 | 217 | 0 | 1 | 0 | 1289 |
+| 30d | 2026-10-11 | 2 | 8 | 0 | 0 | 0 | 31 |
+| last60d | 2026-09-11 | 5 | 14 | 0 | 0 | 0 | 67 |
+| 90d | 2026-08-12 | 7 | 25 | 0 | 0 | 0 | 109 |
+| last180d | 2026-05-14 | 14 | 66 | 0 | 1 | 0 | 305 |
+| 360d | 2025-11-15 | 33 | 149 | 0 | 1 | 0 | 640 |
+| last720d | 2024-11-20 | 53 | 218 | 0 | 1 | 0 | 1291 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:49:49Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:23:06Z._
