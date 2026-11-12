@@ -14,15 +14,15 @@ x install b4n
 
 ## Code insight
 
-Total: **40,075** lines of code across **306** files in the top 5 languages.
+Total: **40,466** lines of code across **307** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 38,948 | 104 | 6,495 | 288 |
+| Rust | 39,339 | 103 | 6,553 | 289 |
 | Yaml | 875 | 17 | 27 | 7 |
 | Toml | 237 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 633 | 350 | 2 |
+| Markdown | 0 | 638 | 355 | 2 |
 
 ## Source
 
@@ -37,22 +37,22 @@ Total: **40,075** lines of code across **306** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 109 · **Forks**: 2 · **Open issues**: 1 · **Contributors**: 2
+- **Stars**: 109 · **Forks**: 2 · **Open issues**: 2 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 219 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 0 · **Commits**: 1293
+- **Releases**: 53 · **Merged PRs**: 221 · **Open PRs**: 0 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 1301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 9 | 0 | 0 | 0 | 32 |
-| last60d | 2026-09-12 | 5 | 14 | 0 | 0 | 0 | 68 |
-| 90d | 2026-08-13 | 7 | 26 | 0 | 0 | 0 | 110 |
-| last180d | 2026-05-15 | 14 | 67 | 0 | 1 | 0 | 306 |
-| 360d | 2025-11-16 | 33 | 149 | 0 | 1 | 0 | 641 |
-| last720d | 2024-11-21 | 53 | 219 | 0 | 1 | 0 | 1293 |
+| 30d | 2026-10-13 | 2 | 11 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-13 | 4 | 16 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-14 | 7 | 28 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-16 | 14 | 69 | 0 | 1 | 1 | 0 |
+| 360d | 2025-11-17 | 33 | 151 | 0 | 1 | 1 | 0 |
+| last720d | 2024-11-22 | 53 | 221 | 0 | 1 | 1 | 1301 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:23:20Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:25:10Z._
