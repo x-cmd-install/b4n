@@ -1,0 +1,121 @@
+about:
+  description: "Terminal user interface (TUI) for Kubernetes API written in Rust"
+  license: MIT
+  homepage: 
+  head: 33e1709
+  archived: false
+  latestVersion: "v1.3.0"
+  latestRelease: "v1.3.0"
+  latestPrerelease: ""
+  collectedAt: 2026-11-12T08:25:03Z
+timeline:
+  created: 2024-12-30
+  lastCommit: 2026-11-11
+  lastVersion: 2026-10-29
+  lastRelease: 2026-10-29
+  lastPrerelease: 
+popularity:
+  star: 109
+  watcher: 2
+  fork: 2
+  release: 53
+  contributor: 2
+  pullRequest: 221
+  issue: 2
+language:
+  Rust: 1653686
+  Dockerfile: 618
+totalBytes: 1654304
+recent:
+  last30d:
+    since: 2026-10-13
+    release: 2
+    mergedPR: 11
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last60d:
+    since: 2026-09-13
+    release: 4
+    mergedPR: 16
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last90d:
+    since: 2026-08-14
+    release: 7
+    mergedPR: 28
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 0
+  last180d:
+    since: 2026-05-16
+    release: 14
+    mergedPR: 69
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last360d:
+    since: 2025-11-17
+    release: 33
+    mergedPR: 151
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last720d:
+    since: 2024-11-22
+    release: 53
+    mergedPR: 221
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 1301
+total:
+  release: 53
+  mergedPR: 221
+  openPR: 0
+  closedIssue: 1
+  openIssue: 1
+  commit: 1301
+---
+path: /home/runner/.x-repo/github.com/fioletoven/b4n
+collectedAt: 2026-11-12T08:25:04Z
+loc:
+  Rust:
+    code: 39339
+    comments: 103
+    blanks: 6553
+    files: 289
+  Yaml:
+    code: 875
+    comments: 17
+    blanks: 27
+    files: 7
+  Toml:
+    code: 237
+    comments: 0
+    blanks: 20
+    files: 8
+  Dockerfile:
+    code: 15
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 638
+    blanks: 355
+    files: 2
+total:
+  code: 40530
+  comments: 3158
+  blanks: 6967
+  files: 307
+---
+
+---
