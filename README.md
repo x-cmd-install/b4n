@@ -14,15 +14,15 @@ x install b4n
 
 ## Code insight
 
-Total: **40,602** lines of code across **308** files in the top 5 languages.
+Total: **40,720** lines of code across **308** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 39,475 | 103 | 6,575 | 290 |
+| Rust | 39,593 | 103 | 6,587 | 290 |
 | Yaml | 875 | 17 | 27 | 7 |
 | Toml | 237 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 639 | 355 | 2 |
+| Markdown | 0 | 640 | 355 | 2 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **40,602** lines of code across **308** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.3.0` (2026-10-29)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-14
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **40,602** lines of code across **308** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 223 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 1307
+- **Releases**: 53 · **Merged PRs**: 224 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 0 · **Commits**: 1313
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 12 | 0 | 1 | 0 | 42 |
-| last60d | 2026-09-15 | 3 | 17 | 0 | 1 | 0 | 78 |
-| 90d | 2026-08-16 | 7 | 29 | 0 | 1 | 0 | 120 |
-| last180d | 2026-05-18 | 14 | 71 | 0 | 2 | 0 | 316 |
-| 360d | 2025-11-19 | 33 | 153 | 0 | 2 | 0 | 651 |
-| last720d | 2024-11-24 | 53 | 223 | 0 | 2 | 0 | 1307 |
+| 30d | 2026-10-16 | 2 | 12 | 0 | 1 | 0 | 33 |
+| last60d | 2026-09-16 | 3 | 18 | 0 | 1 | 0 | 83 |
+| 90d | 2026-08-17 | 7 | 29 | 0 | 1 | 0 | 109 |
+| last180d | 2026-05-19 | 14 | 72 | 0 | 2 | 0 | 302 |
+| 360d | 2025-11-20 | 33 | 154 | 0 | 2 | 0 | 638 |
+| last720d | 2024-11-25 | 53 | 224 | 0 | 2 | 0 | 1313 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:46:38Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:31:53Z._
