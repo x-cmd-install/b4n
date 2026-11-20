@@ -28,3 +28,12 @@
     - MIT
   categories:
     - Unspecified
+- repo: scoop
+  subrepo: extras
+  binname: b4n
+  visiblename: b4n
+  version: 1.4.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
