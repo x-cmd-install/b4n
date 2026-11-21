@@ -22,7 +22,7 @@ Total: **41,161** lines of code across **311** files in the top 5 languages.
 | Yaml | 875 | 17 | 27 | 7 |
 | Toml | 237 | 0 | 20 | 8 |
 | Dockerfile | 15 | 0 | 8 | 1 |
-| Markdown | 0 | 647 | 355 | 2 |
+| Markdown | 0 | 654 | 360 | 2 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **41,161** lines of code across **311** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.0` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-20
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 110 · **Forks**: 2 · **Open issues**: 3 · **Contributors**: 2
+- **Stars**: 112 · **Forks**: 2 · **Open issues**: 3 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 225 · **Open PRs**: 0 · **Closed issues**: 2 · **Open issues**: 1 · **Commits**: 1323
+- **Releases**: 54 · **Merged PRs**: 226 · **Open PRs**: 0 · **Closed issues**: 3 · **Open issues**: 0 · **Commits**: 1325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 10 | 0 | 1 | 1 | 42 |
-| last60d | 2026-09-21 | 4 | 19 | 0 | 1 | 1 | 92 |
-| 90d | 2026-08-22 | 7 | 27 | 0 | 1 | 1 | 118 |
-| last180d | 2026-05-24 | 15 | 72 | 0 | 2 | 1 | 311 |
-| 360d | 2025-11-25 | 34 | 153 | 0 | 2 | 1 | 647 |
-| last720d | 2024-11-30 | 54 | 225 | 0 | 2 | 1 | 1323 |
+| 30d | 2026-10-22 | 2 | 11 | 0 | 2 | 0 | 43 |
+| last60d | 2026-09-22 | 4 | 20 | 0 | 2 | 0 | 93 |
+| 90d | 2026-08-23 | 7 | 28 | 0 | 2 | 0 | 119 |
+| last180d | 2026-05-25 | 15 | 72 | 0 | 3 | 0 | 312 |
+| 360d | 2025-11-26 | 33 | 153 | 0 | 3 | 0 | 648 |
+| last720d | 2024-12-01 | 54 | 226 | 0 | 3 | 0 | 1325 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for b4n lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:27:41Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:59:43Z._
