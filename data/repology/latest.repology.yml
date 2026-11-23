@@ -1,3 +1,15 @@
+- repo: aur
+  srcname: b4n-bin
+  binname: b4n-bin
+  visiblename: b4n-bin
+  version: 1.4.0
+  origversion: 1.4.0-1
+  status: newest
+  summary: A terminal-based tool for browsing Kubernetes resources
+  maintainers:
+    - ahp@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: b4n
   visiblename: b4n
