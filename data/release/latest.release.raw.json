@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4282738,
       "digest": "sha256:0f800cd4f7a51ce27e38a440cab5037f92712fc88e8a5d9495e001820f7a51fe",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-11-15T15:50:08Z",
       "updated_at": "2026-11-15T15:50:08Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.4.0/b4n-1.4.0-x86_64-linux.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3650990,
       "digest": "sha256:0734cf5fd82968caa669584aa65dd9fd891e268ab4ae1774ace37342d92ac3ed",
-      "download_count": 136,
+      "download_count": 146,
       "created_at": "2026-11-15T15:53:27Z",
       "updated_at": "2026-11-15T15:53:27Z",
       "browser_download_url": "https://github.com/fioletoven/b4n/releases/download/v1.4.0/b4n-1.4.0-x86_64-windows.zip"
